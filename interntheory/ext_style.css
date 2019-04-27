@@ -1,0 +1,35 @@
+.dot
+{
+  border-style: dotted;
+  border-color: red;
+  background-color:white;
+}
+.plain
+{
+   border-style: solid;
+   border-color: red;
+  background-color:white;
+}
+.dash
+{
+   border-style: dashed;
+   border-color: red;
+  background-color:white;
+}
+.padd
+{
+   padding-right: 30%;
+  background-color:lightgrey;
+}
+.dim
+{
+   border: 1px solid black;
+   bottom: 20px;
+   width: 100px;
+   height: 100px;
+  background-color:black;
+
+}
+.space
+{
+}
